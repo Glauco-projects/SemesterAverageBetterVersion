@@ -1,0 +1,3 @@
+/tmp/projects/TEMP2/SemesterAverageBetterVersion/build/CMakeFiles/school_input.dir
+/tmp/projects/TEMP2/SemesterAverageBetterVersion/build/CMakeFiles/edit_cache.dir
+/tmp/projects/TEMP2/SemesterAverageBetterVersion/build/CMakeFiles/rebuild_cache.dir

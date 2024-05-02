@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/school_input.dir/calculus.cpp.o CMakeFiles/school_input.dir/course.cpp.o CMakeFiles/school_input.dir/data_structures.cpp.o CMakeFiles/school_input.dir/student.cpp.o CMakeFiles/school_input.dir/functions.cpp.o CMakeFiles/school_input.dir/main.cpp.o -o school_input
